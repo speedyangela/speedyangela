@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there,
 
-<!--
-**speedyangela/speedyangela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiante en **L3 Mathématiques et Informatique (IM2D)** à l'Université Paris Dauphine-PSL.
+Je me spécialise en **Data Science** et **Aide à la Décision**. Je cherche à appliquer les mathématiques (Graphes, Stats, Algèbre) pour résoudre des problèmes concrets.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+* **Languages:** Python (NumPy, Pandas, NetworkX), SQL, Java, C.
+* **Interests:** Graph Theory, Machine Learning, Data Visualization, Optimization.
+
+---
+
+### Featured Project
+**[Hollywood Graph Analysis](https://github.com/speedyangela/Analyse-Graph-Hollywood-.git)**
+*Une analyse topologique de l'industrie du cinéma utilisant la théorie des graphes pour prédire des collaborations.*
+* **Tech :** Python, NetworkX, Greedy Modularity, Jaccard Index.
+* **Key Insight :** Segmentation de 459 communautés d'acteurs et détection de pivots inter-générationnels.
+
+---
