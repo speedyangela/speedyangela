@@ -45,7 +45,7 @@ Actuellement en troisième année de Licence **Informatique et Mathématiques po
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Savoir-faire Mathématique**
+**Compétences mathémathiques**
 `Statistiques Descriptives` `Probabilités` `Algèbre Linéaire` `Optimisation`
 
 
